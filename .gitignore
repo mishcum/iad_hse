@@ -2,4 +2,5 @@
 lectures/
 sems/
 .DS_Store
-./dl
+dl/
+catboost_info/
