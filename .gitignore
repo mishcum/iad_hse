@@ -4,3 +4,4 @@ sems/
 .DS_Store
 dl/
 catboost_info/
+.data/
